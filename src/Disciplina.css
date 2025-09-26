@@ -1,0 +1,10 @@
+.disciplina{
+    padding: 1em;
+    border: 1px solid lightblue;
+    border-radius: 0.5m;
+    font-family: sans-serif;
+    h1{
+        background-color: aquamarine;
+    }
+}
+
